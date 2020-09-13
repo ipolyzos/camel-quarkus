@@ -71,7 +71,6 @@
 - \[pull\] master from apache:master [\#67](https://github.com/ipolyzos/camel-quarkus/pull/67) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#66](https://github.com/ipolyzos/camel-quarkus/pull/66) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#65](https://github.com/ipolyzos/camel-quarkus/pull/65) ([pull[bot]](https://github.com/apps/pull))
-- \[pull\] master from apache:master [\#64](https://github.com/ipolyzos/camel-quarkus/pull/64) ([pull[bot]](https://github.com/apps/pull))
 
 ## [1.0.0-CR2](https://github.com/ipolyzos/camel-quarkus/tree/1.0.0-CR2) (2020-05-29)
 
